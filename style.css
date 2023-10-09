@@ -2,3 +2,9 @@ body{
     background-color: black;
     color: white;
 }
+h1{
+    color: red;
+    background-color: aquamarine;
+    height: 12px;
+    font-weight: bolder;
+}
