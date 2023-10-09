@@ -5,3 +5,4 @@ function git(){
 }
 var y = 2;
 alert("oh hell noo")
+var z = "has hanged"
