@@ -5,4 +5,5 @@ function git(){
 }
 var y = 2;
 alert("oh hell noo")
-var z = "has hanged"
+var z = "pc part has hanged";
+let a = "git hup changed that";
